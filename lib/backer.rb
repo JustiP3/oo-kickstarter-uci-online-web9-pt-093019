@@ -1,4 +1,8 @@
 class Backer
 
+def initialize(name)
+  @name = name 
 
-end #end of clas s
+end 
+
+end #end of class
